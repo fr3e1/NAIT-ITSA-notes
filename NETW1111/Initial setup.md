@@ -3,7 +3,7 @@
 * ### 2. visit Course Materials
 * ### 3. Find required .exe at "General Downloads/software/"
 
-![VMWare exe location](images/VMWare_exe_location.png)
+![VMWare exe location](/images/VMWare_exe_location.png)
 
 
 # Setting up VMWare Network configs
@@ -26,7 +26,7 @@
 * Disable DHCP
 
 ## Example finished config
-![Example finished config](images/Network_config_example.png)
+![Example finished config](/images/Network_config_example.png)
 ## In case of major issues
 Simply restore defaults and redo every changes noted above
 
