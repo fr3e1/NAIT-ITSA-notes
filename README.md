@@ -4,5 +4,5 @@
 
 # Contents
 ## NETW1111
-* [Initial setup](NETW1111/Initial%20setup)
+* [Initial setup](NETW1111/Initial%20setup.md)
 * 
