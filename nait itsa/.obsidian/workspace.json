@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installing VMWare (no login).md",
+                "file": "NETW1111/Installing VMWare (no login).md",
                 "mode": "source",
                 "source": false
               },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installing VMWare (no login).md",
+                "file": "NETW1111/Installing VMWare (no login).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installing VMWare (no login).md",
+                "file": "NETW1111/Installing VMWare (no login).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installing VMWare (no login).md",
+                "file": "NETW1111/Installing VMWare (no login).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,7 +218,7 @@
   "lastOpenFiles": [
     "NETW1111/Images/VMWare exe location.png",
     "NETW1111/VMWare Network Setup.md",
-    "Installing VMWare (no login).md",
+    "NETW1111/Installing VMWare (no login).md",
     "NETW1111/Images/Network config example.png",
     "NETW1111/Images",
     "create a link.md",
