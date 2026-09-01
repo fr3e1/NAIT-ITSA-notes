@@ -199,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4d550c34325821b",
+  "active": "852e0c29434987a4",
   "lastOpenFiles": [
     "NETW1111/Images/VMWare.md",
     "NETW1111/Initial setup.md",
@@ -218,9 +218,9 @@
     "NETW1111 1/Images",
     "NETW1111 1",
     "NETW1111/Initial setup",
-    "NETW1111/Images/VMWare_exe_location.png",
-    "NETW1111/Images/Network_config_example.png",
-    "NETW1111/Images",
+    "images/VMWare_exe_location.png",
+    "images/Network_config_example.png",
+    "images",
     "create a link.md",
     "NETW1111",
     "Welcome.md"
