@@ -1,5 +1,5 @@
 # Installing VMWare (no login needed)
- 1. Visit [ITSA Sharepoint]([ITSA sharepoint](https://naitca.sharepoint.com/sites/ITSAProgram)) website
+ 1. Visit [ITSA Sharepoint](https://naitca.sharepoint.com/sites/ITSAProgram) website
  2. visit Course Materials
  3. Find required .exe at "General Downloads/software/"
 
