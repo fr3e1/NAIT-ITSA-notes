@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETW1111/Installing VMWare (no login).md",
+                "file": "NETW1111/Initial setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installing VMWare (no login)"
+              "title": "Initial setup"
             }
           }
         ],
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,9 +216,21 @@
   },
   "active": "852e0c29434987a4",
   "lastOpenFiles": [
+    "NETW1111/Initial setup/Installing VMWare (no login).md",
+    "NETW1111/Initial setup.md",
+    "NETW1111/Initial setup/VMWare Network Setup.md",
+    "README.md",
+    "NETW1111.md",
+    "NETW1111/Initial.md",
+    "NETW1111 1/Initial setup/VMWare Network Setup.md",
+    "NETW1111 1/Initial setup/Installing VMWare (no login).md",
+    "NETW1111 1/Images/VMWare exe location.png",
+    "NETW1111 1/Images/Network config example.png",
+    "NETW1111 1/Initial setup",
+    "NETW1111 1/Images",
+    "NETW1111 1",
+    "NETW1111/Initial setup",
     "NETW1111/Images/VMWare exe location.png",
-    "NETW1111/VMWare Network Setup.md",
-    "NETW1111/Installing VMWare (no login).md",
     "NETW1111/Images/Network config example.png",
     "NETW1111/Images",
     "create a link.md",
