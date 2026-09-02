@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETW1111/Initial setup.md",
+                "file": "SYSA1011/SYSA1011.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initial setup"
+              "title": "SYSA1011"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6f670cb1b7345fe1",
@@ -202,7 +203,11 @@
   "active": "e4d550c34325821b",
   "lastOpenFiles": [
     "README.md",
+    "SYSA1011/SYSA1011.md",
+    "SYSA1011",
     "NETW1111/Initial setup.md",
+    "SYSA1000/PC Parts.md",
+    "SYSA1000",
     "PMIT1027",
     "Untitled.md",
     "NETW1111/Images/VMWare.md",

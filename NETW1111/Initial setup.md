@@ -30,5 +30,3 @@
 ![Example finished config](/images/Network_config_example.png)
 ## In case of major issues
 Simply restore defaults and redo every changes noted above
-
-aaa
