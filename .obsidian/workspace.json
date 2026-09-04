@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYSA1011/SYSA1011.md",
+                "file": "SYSA1000/HW and OS Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SYSA1011"
+              "title": "HW and OS Fundamentals"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6f670cb1b7345fe1",
@@ -202,10 +201,13 @@
   },
   "active": "e4d550c34325821b",
   "lastOpenFiles": [
-    "README.md",
-    "SYSA1011/SYSA1011.md",
-    "SYSA1011",
+    "Pasted image 20260904132756.png",
+    "NETW1111/Intro to networking.md",
+    "SYSA1000/HW and OS Fundamentals.md",
     "NETW1111/Initial setup.md",
+    "SYSA1011/SYSA1011.md",
+    "README.md",
+    "SYSA1011",
     "SYSA1000/PC Parts.md",
     "SYSA1000",
     "PMIT1027",
