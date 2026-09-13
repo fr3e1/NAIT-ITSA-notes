@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYSA1000/HW and OS Fundamentals.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW and OS Fundamentals"
+              "title": "README"
             }
           }
         ]
@@ -201,11 +201,21 @@
   },
   "active": "e4d550c34325821b",
   "lastOpenFiles": [
-    "Pasted image 20260904132756.png",
-    "NETW1111/Intro to networking.md",
-    "SYSA1000/HW and OS Fundamentals.md",
+    "NETW1111/Networking IP Addressing.md",
+    "images/IPv4 Classes locally or private.png",
+    "images/IPv4 Classes.png",
+    "images/Different Layers in Networking.png",
+    "Extra Information/TCP and UDP.md",
+    "Extra Information/Session Cookies and how I've been looking at it wrong.md",
+    "Extra Information/Extended ASCII.md",
+    "images/Network_config_example.png",
+    "images/VMWare_exe_location.png",
+    "Extra Information",
     "NETW1111/Initial setup.md",
+    "NETW1111/Intro to networking.md",
     "SYSA1011/SYSA1011.md",
+    "SYSA1000/HW and OS Fundamentals.md",
+    "Pasted image 20260904132756.png",
     "README.md",
     "SYSA1011",
     "SYSA1000/PC Parts.md",
@@ -227,11 +237,8 @@
     "NETW1111 1/Images",
     "NETW1111 1",
     "NETW1111/Initial setup",
-    "images/VMWare_exe_location.png",
-    "images/Network_config_example.png",
     "images",
     "create a link.md",
-    "NETW1111",
     "Welcome.md"
   ]
 }
