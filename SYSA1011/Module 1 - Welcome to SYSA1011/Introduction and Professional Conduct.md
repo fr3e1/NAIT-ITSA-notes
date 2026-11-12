@@ -1,0 +1,123 @@
+##### *NOTE:* Info gathered and simplified from SYSA1011 presentations or documents in brightspace. Everything written are information that could be considered useful.
+# Contents
+* [Course Introduction](#Course%20Introduction) 
+# Course Introduction
+
+### What is this course about?
+* Explore communication, ethics, professionalism, and workplace conduct in IT
+
+* Participate in workplace simulations, discussions, and scenario-based activities
+
+* Practice professional communication and collaboration skills
+
+* Build career readiness through portfolio work, interview prep, and reflection
+
+* Learn to navigate the expectations and challenge of modern IT practices
+
+### Key themes
+* Communication and collaboration
+* Conduct and ethical decisions
+* Privacy and responsible tech
+* Career readiness
+* Interviewing and feedback
+* Time and accountability
+* Conflict and relationships
+* Workplace scenarios
+
+### Skills that matters most (according to students)
+* Communication and teamwork
+	* Simplification 
+		* Ability to clarify and explain what has been done
+	* Patience
+	* Problem solving / diagnosing systems
+	* Empathy
+* Technical knowledge
+	* Efficient use of keyboard shortcuts
+	*  Attention to details
+	* resilience
+	* Problem solving / diagnosing systems
+	* Time management
+* Documentation
+	* Attention to details
+	* Simplification
+	* Confidentiality and privacy
+
+
+### How we'll be assessed
+* Org structure & hiring sim
+	* Define org's mission, size, and structure
+	* Build an IT department with clear roles
+	* Review candidate profiles for an open role
+	* Defend your hiring decision with workplace reasoning
+* Workplace simulation lab
+	* We will be working through realistic IT workplace scenarios involving communication, professionalism, ethics, and workplace conduct. discuss each one with your group, then demonstrate how you would respond professionally
+* Professional portfolio
+	* Throughout the semester we'll progressively build a professional portfolio of career-development and workplace-readiness artifacts
+		* Resume work 
+			>targeted IT resume drafts and revisions
+		* communication Reflections
+			>Short written reflections on workplace moments
+		* LinkedIn development
+			>Build and refine professional profile
+		* Professional analysis
+			>Case-based analysis of workplace situations
+		* 
+		
+* Final theory quiz
+	* The final theory quiz will evaluate our understanding of the key professionalism, communication, ethical, and workplace concepts explored throughout the course
+* Readiness interview
+	* Near the end of the semester, we will be taking part in a professional readiness interview simulation that will be focused on workplace communication, behavioural questions, professional reflection, and interview readiness
+* Professional engagement
+	* Professional engagement is assessed holistically throughout the term -- how you show up, prepare, communicate, and collaborate in our workplace-style activities and discussions
+
+# Professional Conduct
+
+### What is professional conduct? 
+Professional conduct refers to the behaviours, attitudes, and actions expected in a workplace
+
+* Professionalism
+> Representing yourself and the organization well
+* Accountability
+> Owning your responsibilities and outcomes
+* Communication
+> Clear, timely, and respectful exchanges
+* Respect
+* reliability
+* Teamwork
+> Collaborating effectively with colleagues
+
+**Technical skills build capability, professional skills build _trust_**
+
+##### Technical work is only part of how IT professionals are evaluated. Communication, collaboration, reliability, and responses under pressure shape workplace trust.
+Common workplace concerns include:
+* Poor communication
+* Attendance issues
+* Unprofessional behaviour
+* Failing to follow workplace expectations
+
+## Use the four-step framework
+* Identify the issue and any missing information
+	* Clarify urgency and commitments. Gather missing information
+* Consider who is affected and what risks exist
+	* Identify affected people. consider trust, service, and workload
+* Choose an action
+	* Prioritize reasonably. Acknowledge completing needs
+* Decide what to communicate or escalate
+	* Set clear expectations. document or escalate when appropriate 
+### First day on the job
+**You're a new IT support technician. It's your first day.**
+What behaviours would help create a positive first impression?
+* How you introduce yourself
+* Your attitude and body language
+* How you ask questions
+
+### Professionalism in everyday situations
+* Responding to Emails
+	* Timely, clear, and professional tone
+* Attending Meetings
+	* Prepared, punctual, and engaged
+* Asking for Help
+	* Knowing when and how to seek support
+* Handling Mistakes
+	* Owning errors and focusing on solutions
+
