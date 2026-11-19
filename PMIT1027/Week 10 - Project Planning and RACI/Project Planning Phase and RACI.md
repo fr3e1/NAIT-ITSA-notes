@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 10
 source: "PMIT1027 - Project Planning Phase.pptx, Understanding the RACI Chart.pptx"
@@ -49,7 +50,8 @@ Back to [[PMIT1027]] · Prev: [[Gantt Charts and Critical Path]] · Next: [[Chan
 | **C** - Consulted | Gives input/expertise - **two-way** | "Who do we talk to before acting?" |
 | **I** - Informed | Kept updated - **one-way** | "Who needs to be kept in the loop?" |
 
-> [!tip] Rule: every task has **one A**, **at least one R**, and optional C's and I's
+> [!TIP]
+> Rule: every task has **one A**, **at least one R**, and optional C's and I's
 
 ### Example - Gamescom watch party
 | Task | Event Lead | Tech Setup | Communications | Snacks/Logistics | Attendees |

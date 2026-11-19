@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 6 - Linux OS Deployment"
 source: "SYSA1000 - Linux Deploy - Linux Distributions and the Ubuntu Installer.pptx"

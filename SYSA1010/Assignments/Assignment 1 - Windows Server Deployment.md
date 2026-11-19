@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 1 - Windows Server Deployment"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1010, assignment, windows-server, dhcp, dns, shares]
 # Assignment 1 - Windows Server Deployment
 Back to [[SYSA1010]]
 
-> [!info] Objective
+> [!NOTE]
+> **Objective**
 > Build a **workgroup** with one **Windows Server 2019** (Desktop Experience) and one **Windows 11** client, configuring DHCP, DNS and file shares. Submitted as a Word/PDF report with a cover page and screenshots.
 
 ## Infrastructure

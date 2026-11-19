@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 2 - IT Roles, Organizational Structure and Hiring"
 source: "Hiring_Decisions_and_Candidate_Evaluation_with_notes.pptx"
@@ -7,7 +8,8 @@ tags: [SYSA1011, hiring, resumes]
 # Hiring Decisions and Candidate Evaluation
 Back to [[SYSA1011]] · Prev: [[Organizational Structure and IT Roles]] · Next: [[Resume Workshop and Job Posting Analysis]]
 
-> [!info] Supports [[Assessment 1 - Organizational Structure and Hiring Simulation]]
+> [!NOTE]
+> Supports [[Assessment 1 - Organizational Structure and Hiring Simulation]]
 
 ## What makes a strong candidate? (Systems Administrator)
 | Technical | Professional |
@@ -67,7 +69,8 @@ Back to [[SYSA1011]] · Prev: [[Organizational Structure and IT Roles]] · Next:
 | Growth potential | | | |
 * Strongest technically? Most workplace-ready? Most growth potential? **Would the answer change by organization?**
 
-> [!important] There is no perfect candidate
+> [!IMPORTANT]
+> **There is no perfect candidate**
 > Organizations may prioritize technical depth, communication, customer service, leadership or growth potential. **Strong recommendations are supported with evidence and reasoning, not personal preference** - point to specific resume content.
 
 ## Reflection

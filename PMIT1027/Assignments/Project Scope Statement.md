@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 7
 type: assignment
@@ -8,7 +9,8 @@ tags: [PMIT1027, assignment, scope]
 # Project Scope Statement
 Back to [[PMIT1027]]
 
-> [!info] Overview (10%)
+> [!NOTE]
+> **Overview (10%)**
 > Formally defines what the project **will** deliver and what's **excluded** - assumptions, constraints, dependencies and acceptance criteria. Builds on the approved charter, but focuses on **boundaries and deliverables**, not purpose/costs/risks.
 > Course outcomes: **CO2** define scope and boundaries · **CO5** communication for teamwork.
 
@@ -22,7 +24,8 @@ Back to [[PMIT1027]]
 | **Acceptance criteria** | **3** measurable completion indicators |
 | **Scope creep prevention plan** | 1-2 paragraphs on handling new requests |
 
-> [!example] Scope creep plan example
+> [!TIP]
+> **Scope creep plan example**
 > "Any new additions to the existing project plan will be recorded and reviewed by the team during our regular meetings. Changes will only be accepted if they align with the project scope and objectives and have no effect on the overall project deadline."
 
 Related: [[Project Scope]]

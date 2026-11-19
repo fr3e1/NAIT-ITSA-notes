@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 2 - IT Roles, Organizational Structure and Hiring"
 source: "Organizational Structure and IT Roles with notes.pptx"
@@ -7,7 +8,8 @@ tags: [SYSA1011, org-structure, it-roles]
 # Organizational Structure and IT Roles
 Back to [[SYSA1011]] · Prev: [[Introduction and Professional Conduct]] · Next: [[Hiring Decisions and Candidate Evaluation]]
 
-> [!info] Supports [[Assessment 1 - Organizational Structure and Hiring Simulation]]
+> [!NOTE]
+> Supports [[Assessment 1 - Organizational Structure and Hiring Simulation]]
 
 * Structure isn't just an HR topic - it decides **who can make decisions without approval**, **who you escalate to**, and **how fast requests move**
 

@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 3 - Application Layer Protocols"
 type: assignment
@@ -8,7 +9,8 @@ tags: [NETW1111, assignment, http, ftp, dns, dhcp, smb]
 # App Layer Assessment
 Back to [[NETW1111]]
 
-> [!info] Overview
+> [!NOTE]
+> **Overview**
 > Screenshot + short-answer assessment built on the Module 3 exercises (HTTP, FTP, DNS, DHCP, SMB). Out of **10**.
 
 | # | Task | Related |

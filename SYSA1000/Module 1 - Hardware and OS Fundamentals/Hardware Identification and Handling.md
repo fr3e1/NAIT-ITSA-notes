@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 1 - Hardware and OS Fundamentals"
 source: "SYSA1000 - HW and OS Fundamentals - Hardware Identification and Handling.pptx"
@@ -30,7 +31,8 @@ Back to [[SYSA1000]] · Prev: [[Course Introduction]] · Next: [[HW and OS Funda
 * Everything is **keyed** - only fits one way round
 
 ## Safe handling and ESD
-> [!warning] Electrostatic discharge (ESD)
+> [!WARNING]
+> **Electrostatic discharge (ESD)**
 > Static destroys components and you **can't see the damage**.
 > * Power off and **unplug** before opening a case
 > * **Touch bare metal on the case** to ground yourself first (or wear an ESD strap)

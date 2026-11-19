@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 4 - Secure Connections"
 lesson: "M4 Day 1 - Linux Remote Administration"
@@ -59,7 +60,8 @@ Start-Service sshd; Set-Service sshd -StartupType Automatic
 ## SSH tunneling
 * Run a weaker protocol through SSH to secure it
 * Can also "sneak" blocked protocols (RDP, SMB) through if SSH is allowed
-> [!warning] This may violate corporate policy - know the organization's stance first
+> [!WARNING]
+> This may violate corporate policy - know the organization's stance first
 
 ```bash
 ssh -L 3389:internal-host:3389 user@jumpbox   # local port forward RDP through SSH

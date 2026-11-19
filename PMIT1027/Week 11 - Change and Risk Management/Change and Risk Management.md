@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 11
 source: "PMIT1027 - Project Change Management.pptx, PMIT1027 - Risk Management.pptx"

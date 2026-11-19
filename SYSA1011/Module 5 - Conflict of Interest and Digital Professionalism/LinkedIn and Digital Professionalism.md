@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 5 - Conflict of Interest and Digital Professionalism"
 source: "LinkedIn & Digital Professionalism.pptx"

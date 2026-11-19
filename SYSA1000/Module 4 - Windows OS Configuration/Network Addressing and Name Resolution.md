@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 4 - Windows OS Configuration"
 source: "SYSA1000 - Windows Config - Network Addressing and Name Resolution.pptx"
@@ -42,7 +43,8 @@ Each success proves one more piece; the first failure shows where the path stops
 | `Reply from ... time= TTL=` | Machine answered |
 | `Request timed out` | Nothing back in 4 seconds |
 | `Destination host unreachable` | No route to send it on |
-> [!note] A blocked ping and a down machine look the same from outside
+> [!NOTE]
+> A blocked ping and a down machine look the same from outside
 
 ## Name resolution
 * Windows checks its **cache** and **hosts file** first, then asks the **DNS server**
@@ -61,7 +63,8 @@ Each success proves one more piece; the first failure shows where the path stops
 | **Subnet mask** | Some local machines reachable, others not |
 | **DNS server** | Every address works, no name does |
 
-> [!tip] The symptom names the value - that's the skill
+> [!TIP]
+> The symptom names the value - that's the skill
 
 ## The firewall is part of the path
 * A ping that arrives still needs a firewall rule to be answered (see [[Command Line, Firewall, and System Settings#Why ping fails by default]])

@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 4 - Windows OS Configuration"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1000, assignment, windows, permissions, firewall, networking, restore
 # Assignment 4 - Windows OS Configuration
 Back to [[SYSA1000]]
 
-> [!info] Objective
+> [!NOTE]
+> **Objective**
 > Configure a Windows 11 client for a network: accounts, permissions, firewall, addressing, updates and recovery. Builds on the VM from [[Assignment 3 - Windows OS Deployment]].
 
 ## Part 1 - Accounts and permissions
@@ -20,7 +22,8 @@ Back to [[SYSA1000]]
 	* No Full control, **no Deny** (no entry = refused anyway)
 5. Test **as the second account**: `whoami` + try to open Private → "You don't currently have permission". **Don't click Continue** (that's the admin elevation that would grant access)
 
-> [!warning] Testing as yourself proves nothing - you're an admin and can open anything.
+> [!WARNING]
+> Testing as yourself proves nothing - you're an admin and can open anything.
 
 ## Part 2 - Firewall rule for ping
 * `ipconfig` on the VM → note the IPv4 address
@@ -52,7 +55,8 @@ Back to [[SYSA1000]]
 4. Install **7-Zip** from 7-zip.org
 5. **System Restore** → pick your point → **Scan for affected programs** (7-Zip listed) → run → restart → completion message, 7-Zip gone
 
-> [!note] Restore point ≠ snapshot ≠ backup
+> [!NOTE]
+> **Restore point ≠ snapshot ≠ backup**
 > Restore point = inside Windows, OS state only. Snapshot = outside Windows, whole machine. Backup = separate copy of data elsewhere - the only one that survives losing the machine.
 
 Related: [[User Accounts, Profiles, and Permissions]], [[Command Line, Firewall, and System Settings]], [[Network Addressing and Name Resolution]], [[Windows Updates, Backup, and Restore]]

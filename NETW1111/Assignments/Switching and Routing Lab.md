@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 2 - Routing"
 type: assignment
@@ -8,7 +9,8 @@ tags: [NETW1111, assignment, routing, subnetting, lab]
 # Switching and Routing Lab
 Back to [[NETW1111]]
 
-> [!info] Overview
+> [!NOTE]
+> **Overview**
 > Connect **three subnets** with **three routers** that talk to each other over **vmnet8 (192.168.202.0/24)**. Each subnet has one VM. Worth **20%**, marked out of **50**.
 
 ## Requirements

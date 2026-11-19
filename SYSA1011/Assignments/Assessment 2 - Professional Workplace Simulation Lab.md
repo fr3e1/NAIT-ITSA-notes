@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 8 - Workplace Scenario Practice and Simulation Lab"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1011, assignment, simulation, ethics]
 # Assessment 2 - Professional Workplace Simulation Lab
 Back to [[SYSA1011]]
 
-> [!info] Overview
+> [!NOTE]
+> **Overview**
 > **In-class**, timed workplace scenarios hosted in Brightspace. Groups discuss together as scenarios rotate; each student submits an **individual** written response document by the end of class. **Point form encouraged.**
 
 ## Scenario topics
@@ -32,7 +34,8 @@ Back to [[SYSA1011]]
 * Reasonable escalation and prioritization
 * Ethical and organizational reasoning
 
-> [!tip] Clear, concise reasoning beats long answers. Some scenarios are ambiguous - there may be no single correct answer.
+> [!TIP]
+> Clear, concise reasoning beats long answers. Some scenarios are ambiguous - there may be no single correct answer.
 
 ## Prepare with
 * [[Workplace Scenario Practice]] - five practice scenarios with suggested responses

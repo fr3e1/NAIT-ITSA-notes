@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 3 - Windows OS Deployment"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1000, assignment, windows11, uefi, tpm, vmware]
 # Assignment 3 - Windows OS Deployment
 Back to [[SYSA1000]]
 
-> [!info] Objective
+> [!NOTE]
+> **Objective**
 > Decide whether a physical desktop meets Windows 11 requirements, then convert a Windows 10 VM into one that does and install Windows 11.
 
 ## Part 1 - Can the classroom desktop run Windows 11?
@@ -51,7 +53,8 @@ Back to [[SYSA1000]]
 	* Rebuild from the **Windows 10 x64** template and redo the six requirements, *or*
 	* Change Version to **Windows 10 x64** **and** delete the `.nvram` (both are required; only safe with **nothing installed** - once Windows is installed the **vTPM keys live in the .nvram**)
 
-> [!tip] Troubleshooting habit
+> [!TIP]
+> **Troubleshooting habit**
 > Compare against a known-good machine, find the one difference, and be able to *explain* the fault - not just follow a fix.
 
 ## Part 4 - Install, snapshot, evidence

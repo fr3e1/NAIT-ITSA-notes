@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 3 - Application Layer Protocols"
 lesson: "M3 Day 7 - SMB"
@@ -25,7 +26,8 @@ Back to [[NETW1111]] · Prev: [[DHCP]] · Next: [[Firewall Lab]]
 * 135-139 are only needed for **legacy** clients → open only 445 to reduce attack surface (NetBIOS doesn't route anyway)
 * NetBIOS **names** don't route either → use **DNS** (or WINS) or the server's **IP** (`\\192.168.1.10\share`)
 
-> [!warning] Don't expose 445 to the Internet
+> [!WARNING]
+> **Don't expose 445 to the Internet**
 > Generally not secure practice (Microsoft's Sysinternals share is a rare exception).
 
 ## Versions

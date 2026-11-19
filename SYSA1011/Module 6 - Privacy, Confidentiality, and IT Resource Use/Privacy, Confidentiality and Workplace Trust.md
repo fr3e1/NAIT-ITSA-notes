@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 6 - Privacy, Confidentiality, and IT Resource Use"
 source: "Class summary (Oct 7 2026) - the Brightspace deck is a blank placeholder"
@@ -7,9 +8,11 @@ tags: [SYSA1011, privacy, confidentiality, ethics, law]
 # Privacy, Confidentiality and Workplace Trust
 Back to [[SYSA1011]] · Prev: [[LinkedIn and Digital Professionalism]] · Next: [[Organizational IT Resources and Acceptable Use]]
 
-> [!note] The *Privacy, Confidentiality & Workplace Trust* deck in Brightspace only has a title slide, so this note comes from the class summary in `Assessments/SYSA1011`.
+> [!NOTE]
+> The *Privacy, Confidentiality & Workplace Trust* deck in Brightspace only has a title slide, so this note comes from the class summary in `Assessments/SYSA1011`.
 
-> [!important] Core rule
+> [!IMPORTANT]
+> **Core rule**
 > **Having access to data does not mean you should access it.**
 
 ## Privacy vs confidentiality

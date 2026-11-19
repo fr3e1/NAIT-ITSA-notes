@@ -17,19 +17,40 @@ git clone https://github.com/fr3e1/NAIT-ITSA-notes.git
 Then in Obsidian choose **Open folder as vault** and select `NAIT-ITSA-notes`. Start from any course index below.
 
 > [!NOTE]
-> GitHub renders the tables, code blocks and Mermaid diagrams, but the `[[wikilinks]]` between notes and some Obsidian callouts show up as plain text. Inside Obsidian everything is linked and rendered.
+> GitHub renders the tables, code blocks and Mermaid diagrams, but the `[[wikilinks]]` between notes show up as plain text. Inside Obsidian everything is linked and rendered.
 
 ## Courses - Semester 1 (Fall 2026)
 
 | Course | Title | Contents |
 | --- | --- | --- |
-| [NETW1111](NETW1111/NETW1111.md) | Introduction to Networking Protocols | OSI, IP addressing, subnetting, routing, firewalls, HTTP/FTP/DNS/DHCP/SMB, SSH, TLS, wireless |
-| [SYSA1000](SYSA1000/SYSA1000.md) | Computer Fundamentals | Hardware, firmware, virtualization, Windows deployment/config/troubleshooting, Ubuntu |
-| [SYSA1010](SYSA1010/SYSA1010.md) | Introduction to Server Operating Systems | Windows Server, DHCP/DNS roles, shares, Active Directory, GPOs, event logs, documentation |
-| [SYSA1011](SYSA1011/SYSA1011.md) | Professionalism in the IT Workplace | Org structure, hiring, resumes, ethics, privacy, communication, career strategy |
-| [PMIT1027](PMIT1027/PMIT1027.md) | IT Project Essentials | Project lifecycle, charters, scope, WBS, Gantt/critical path, RACI, risk, procurement |
+| 🔵 [NETW1111](NETW1111/NETW1111.md) | Introduction to Networking Protocols | OSI, IP addressing, subnetting, routing, firewalls, HTTP/FTP/DNS/DHCP/SMB, SSH, TLS, wireless |
+| 🟠 [SYSA1000](SYSA1000/SYSA1000.md) | Computer Fundamentals | Hardware, firmware, virtualization, Windows deployment/config/troubleshooting, Ubuntu |
+| 🟣 [SYSA1010](SYSA1010/SYSA1010.md) | Introduction to Server Operating Systems | Windows Server, DHCP/DNS roles, shares, Active Directory, GPOs, event logs, documentation |
+| 🟢 [SYSA1011](SYSA1011/SYSA1011.md) | Professionalism in the IT Workplace | Org structure, hiring, resumes, ethics, privacy, communication, career strategy |
+| 🔴 [PMIT1027](PMIT1027/PMIT1027.md) | IT Project Essentials | Project lifecycle, charters, scope, WBS, Gantt/critical path, RACI, risk, procurement |
 
 Also: [Initial setup](NETW1111/Initial%20setup.md) (VMware install and vmnet configuration) and [Extra Information](Extra%20Information/).
+
+## Color key
+
+Callouts are written as GitHub alerts, so they're colored both here and in Obsidian:
+
+> [!NOTE]
+> **Blue - Note / Overview.** Background info, assignment objectives, side notes.
+
+> [!TIP]
+> **Green - Tip / Example.** Mnemonics, shortcuts, troubleshooting habits, worked examples.
+
+> [!IMPORTANT]
+> **Purple - Key idea.** The thing to remember from the lesson.
+
+> [!WARNING]
+> **Yellow - Warning.** Common mistakes and gotchas.
+
+> [!CAUTION]
+> **Red - Danger.** Things that can lose data or lock you out.
+
+In Obsidian, each course also has its own accent color (headings, tables, bold text, inline code and the file explorer) via the `course-colors` CSS snippet in `.obsidian/snippets/`. It's enabled by default; toggle it in **Settings → Appearance → CSS snippets**.
 
 ## Screenshots
 

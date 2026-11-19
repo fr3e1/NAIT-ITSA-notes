@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 1 - Hardware and OS Fundamentals"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1000, assignment, hardware, number-systems]
 # Assignment 1 - Hardware Fundamentals
 Back to [[SYSA1000]]
 
-> [!info] Objective
+> [!NOTE]
+> **Objective**
 > Identify the internal components of a desktop, find out what's inside your own laptop and **who actually made each part**, and convert hardware values between decimal, binary and hex.
 
 ## Part 1 - Hardware Passport (in-person, partner signs off)
@@ -19,7 +21,8 @@ Back to [[SYSA1000]]
 5. **Remove + refit the storage drive** (if reachable) → POST → firmware still detects it
 6. Restore firmware settings/defaults, close the case, leave the station tidy
 
-> [!tip] Why record a baseline first?
+> [!TIP]
+> **Why record a baseline first?**
 > The "still reports the same thing" check only means something if you wrote down what it said before you touched anything.
 
 ## Part 2 - Laptop hardware identification
@@ -80,6 +83,7 @@ B7 = 11×16 + 7 = 183
 | --- | --- | --- | --- | --- | --- | --- |
 | Dec | 10 | 11 | 12 | 13 | 14 | 15 |
 
-> [!note] Powers of two in binary are a single 1 followed by zeros (16 = `10000`). `F` = `1111` (all four bits on), so `FF` = 255 = a full byte.
+> [!NOTE]
+> Powers of two in binary are a single 1 followed by zeros (16 = `10000`). `F` = `1111` (all four bits on), so `FF` = 255 = a full byte.
 
 Related: [[Hardware Identification and Handling]], [[HW and OS Fundamentals]]

@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 6 - Privacy, Confidentiality, and IT Resource Use"
 source: "Organizational IT Resources and Acceptable Use.pptx"
@@ -7,7 +8,8 @@ tags: [SYSA1011, acceptable-use, stewardship, ethics]
 # Organizational IT Resources and Acceptable Use
 Back to [[SYSA1011]] · Prev: [[Privacy, Confidentiality and Workplace Trust]] · Next: [[Communication and Active Listening]]
 
-> [!quote] Organizational resources are **entrusted** to you, not **given** to you.
+> [!IMPORTANT]
+> Organizational resources are **entrusted** to you, not **given** to you.
 
 ## Stewardship
 * A **steward** is entrusted with resources that belong to someone else - you may **use**, **manage** and **control** them, but **you don't own them**

@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 4
 type: assignment
@@ -8,7 +9,8 @@ tags: [PMIT1027, assignment, pitch, presentation]
 # Project Pitch
 Back to [[PMIT1027]]
 
-> [!info] Overview (10%)
+> [!NOTE]
+> **Overview (10%)**
 > A **10-minute** team pitch (PowerPoint/Prezi, live or recorded) uploaded to your private MS Teams channel; one member submits the link in a Word doc to Brightspace. Every member presents an **equal** portion.
 
 ## Expectations

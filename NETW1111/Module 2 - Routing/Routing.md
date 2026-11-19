@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 2 - Routing"
 lesson: "M2 Day 1 - Routing Concepts"
@@ -40,7 +41,8 @@ Back to [[NETW1111]] · Prev: [[TCP-IP and Transport Protocols]] · Next: [[Netw
 * `ipconfig /all` shows your DG
 * With no other instructions, the client always sends off-LAN traffic to its DG
 
-> [!important] The DG must be on the same LAN
+> [!IMPORTANT]
+> **The DG must be on the same LAN**
 > Clients reach the DG with **Ethernet / MAC addressing** (L2). So the client and DG must:
 > 1. Share the **same network address**, **and**
 > 2. Be reachable through the **same switch(es)**
@@ -88,7 +90,8 @@ traceroute 8.8.8.8   # Linux
 ```
 
 ## Troubleshooting order
-> [!tip] Can't reach a web page?
+> [!TIP]
+> **Can't reach a web page?**
 > Possible failure points: **routing**, **DNS**, **web server**. Rule out the easy ones first:
 > 1. Does **DNS** resolve? If not → DNS is most likely the problem
 > 2. If DNS resolves, can you **ping/tracert the IP**? If not → routing issue (maybe outside your control depending on the hop)

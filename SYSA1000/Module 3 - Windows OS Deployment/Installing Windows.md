@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 3 - Windows OS Deployment"
 source: "SYSA1000 - Windows Deploy - Installing Windows.pptx"
@@ -23,7 +24,8 @@ Back to [[SYSA1000]] · Prev: [[Firmware and Hardware Requirements]] · Next: [[
 | **Secure Boot** enabled | Required; only possible with UEFI |
 | Add a **TPM 2.0** device | Required |
 
-> [!danger] Adding a vTPM encrypts the VM
+> [!CAUTION]
+> **Adding a vTPM encrypts the VM**
 > Workstation must protect the TPM's keys, so it **encrypts the VM** and asks for a password. **There is no recovery for that password.** Write it down.
 
 ## The disk step

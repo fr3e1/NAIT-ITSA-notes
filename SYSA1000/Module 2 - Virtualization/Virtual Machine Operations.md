@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 2 - Virtualization"
 source: "SYSA1000 - Virtualization - Virtual Machine Operations.pptx"
@@ -18,7 +19,8 @@ Back to [[SYSA1000]] · Prev: [[Virtualization Concepts and Resource Allocation]
 * Taking one writes new files into the folder: the old disk is preserved and later changes go to a separate delta disk
 * Cost space and speed → not meant to live forever
 
-> [!warning] A snapshot is NOT a backup
+> [!WARNING]
+> **A snapshot is NOT a backup**
 > It lives in the same folder on the same disk. If the folder or drive is lost, the snapshots go with it. A **backup is a copy that lives somewhere else**.
 
 ## Clones

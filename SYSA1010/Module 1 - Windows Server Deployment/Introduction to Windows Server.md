@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 1 - Windows Server Deployment"
 source: "Lesson 01a - Introduction to Windows Server.pptx"

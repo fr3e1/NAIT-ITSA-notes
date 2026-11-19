@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 4 - Secure Connections"
 lesson: "M4 Day 3 - Wireless Theory"
@@ -66,7 +67,8 @@ Back to [[NETW1111]] · Prev: [[TLS]] · Next: [[Wireless Assessment]]
 | **WPA3** | 2018 | Based on WPA2, Wi-Fi Alliance certified equipment |
 | WPS | 2006 | PIN/push-button setup. PIN crackable (2011) → reveals the PSK. **Disable it** |
 
-> [!warning] The PSK only keeps *outsiders* out
+> [!WARNING]
+> **The PSK only keeps *outsiders* out**
 > Anyone who knows the pre-shared key can snoop traffic on the network - like an apartment parkade that keeps strangers out but not a renter doing a hit-and-run. Always use **TLS** on wireless networks as an extra layer.
 
 ## Mesh vs access points

@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 9 - Workplace Respect, Remote Work, and Professional Documentation"
 source: "Workplace Respect and Professional Awareness.pptx"

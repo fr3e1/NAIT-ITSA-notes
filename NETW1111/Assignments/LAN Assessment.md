@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 1 - Local Area Networks"
 type: assignment
@@ -8,7 +9,8 @@ tags: [NETW1111, assignment, ipv4, ipv6, mac, tcp, udp]
 # LAN Assessment
 Back to [[NETW1111]]
 
-> [!info] Overview
+> [!NOTE]
+> **Overview**
 > Short-answer + screenshot assessment built on the Module 1 exercises (*Testing Connectivity*, *MAC Addresses*, *TCP-IP*). Out of **20**.
 
 ## What it covers

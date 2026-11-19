@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 3
 type: assignment
@@ -8,7 +9,8 @@ tags: [PMIT1027, assignment, teamwork]
 # Team Norms Contract
 Back to [[PMIT1027]]
 
-> [!info] Purpose (5%)
+> [!NOTE]
+> **Purpose (5%)**
 > Speed up team development, increase **individual accountability**, and reduce conflict by agreeing on procedures, expectations and consequences **up front**. Complete, sign and submit as a team. Be as **specific** as possible: exact tasks, steps and people responsible.
 
 ## Sections
@@ -31,7 +33,8 @@ Back to [[PMIT1027]]
 * How the team handles infractions (poor quality, late work, missed meetings, not contributing)
 * What happens if infractions continue (escalation path - e.g. documented warning → instructor)
 
-> [!tip] When things go wrong
+> [!TIP]
+> **When things go wrong**
 > Teams often hit **storming** after the contract is signed - that's normal ([[Team Dynamics#Tuckman's stages of team formation]]). Revisit the contract: is the team not following it, or does it need changing?
 
 Related: [[Team Dynamics]]

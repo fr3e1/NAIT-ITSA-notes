@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 type: assignment
 tags: [SYSA1011, assignment, portfolio, career]
@@ -6,7 +7,8 @@ tags: [SYSA1011, assignment, portfolio, career]
 # Professional Portfolio
 Back to [[SYSA1011]]
 
-> [!info] Overview
+> [!NOTE]
+> **Overview**
 > Built progressively through the semester; all components are due in the final portfolio (**Week 11** checkpoint/submission). Mostly **completion-based, reflective and developmental**. AI may help with wording/organization, but everything must reflect **your own** skills and reasoning - you must be able to explain it.
 
 ## Components

@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 3 - Resume Workshop and Professional Writing"
 source: "Resume Workshop and Job Posting Analysis.pptx"
@@ -7,7 +8,8 @@ tags: [SYSA1011, resume, ats, job-search]
 # Resume Workshop and Job Posting Analysis
 Back to [[SYSA1011]] · Prev: [[Hiring Decisions and Candidate Evaluation]] · Next: [[Ethics in IT Decision Making]]
 
-> [!quote] Not about making a resume look pretty - it's about how employers evaluate candidates and how to get selected for an interview.
+> [!IMPORTANT]
+> Not about making a resume look pretty - it's about how employers evaluate candidates and how to get selected for an interview.
 
 ## The hiring problem
 * A help desk posting gets **300+ applications in 48 hours**
@@ -23,7 +25,8 @@ Back to [[SYSA1011]] · Prev: [[Hiring Decisions and Candidate Evaluation]] · N
 | "Active Directory experience required" | "Managed user accounts" | ❌ no match |
 | "Active Directory experience required" | "Created and managed **Active Directory** user accounts using **Microsoft 365** admin tools" | ✅ match |
 
-> [!tip] Speak the employer's language
+> [!TIP]
+> **Speak the employer's language**
 > Use the posting's terminology where it's true. Not gaming the system - **communicating clearly**.
 
 ### Activity - find the keywords

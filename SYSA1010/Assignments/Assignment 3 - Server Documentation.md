@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 3 - Server Documentation"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1010, assignment, documentation, onenote]
 # Assignment 3 - Server Documentation
 Back to [[SYSA1010]]
 
-> [!info] Objective
+> [!NOTE]
+> **Objective**
 > Document a previously **undocumented server** (downloaded from ITSA SharePoint) in the class **OneNote template**, then export it to PDF.
 
 ## Setup

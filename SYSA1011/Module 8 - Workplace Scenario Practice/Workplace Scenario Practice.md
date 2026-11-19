@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 8 - Workplace Scenario Practice and Simulation Lab"
 source: "SYSA1011-Practice-Scenarios V2.pptx"
@@ -7,7 +8,8 @@ tags: [SYSA1011, scenarios, simulation, ethics]
 # Workplace Scenario Practice
 Back to [[SYSA1011]] · Prev: [[Communication and Active Listening]] · Next: [[Workplace Respect and Professional Awareness]]
 
-> [!info] Practice for [[Assessment 2 - Professional Workplace Simulation Lab]]. Discuss in groups; in the assessment every response is written **individually**, in **point form**.
+> [!NOTE]
+> Practice for [[Assessment 2 - Professional Workplace Simulation Lab]]. Discuss in groups; in the assessment every response is written **individually**, in **point form**.
 
 ## Four questions for every scenario
 1. **Primary issue** - what's the main concern?

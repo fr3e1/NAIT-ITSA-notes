@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 1 - Local Area Networks"
 lesson: "M1 Day 4 - Ethernet"
@@ -42,7 +43,8 @@ Back to [[NETW1111]] · Prev: [[LANs and IP Addressing]] · Next: [[TCP-IP and T
 	* Traffic leaving the LAN is sent to the **default gateway's** MAC (found with ARP)
 	* The router then uses its own MAC on the next network
 
-> [!warning] ARP spoofing
+> [!WARNING]
+> **ARP spoofing**
 > ARP has no built-in security. A malicious host can falsely advertise itself as another host (detectable, though).
 
 ```

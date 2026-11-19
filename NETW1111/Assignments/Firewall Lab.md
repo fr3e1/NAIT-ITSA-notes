@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 3 - Application Layer Protocols"
 type: assignment
@@ -8,7 +9,8 @@ tags: [NETW1111, assignment, firewall, nat, pfsense, lab]
 # Firewall Lab
 Back to [[NETW1111]]
 
-> [!info] Overview
+> [!NOTE]
+> **Overview**
 > Use **NAT port forwarding** and firewall rules on a **pfSense** router to give an external client access to HTTP, DNS and FTP on an internal Windows Server, then verify with network tools. Out of **20**.
 
 ## Setup
@@ -32,7 +34,8 @@ flowchart LR
 * **Save → Apply Changes**
 * Ping the WAN IP from the client. To prove the *server* (not pfSense) answers: block inbound on the server's firewall and watch the pings fail
 
-> [!tip] Lab method
+> [!TIP]
+> **Lab method**
 > 1. Use the correct protocol 2. Make sure the rule is **applied** 3. **Test** that it works *and* reaches the right target. Be skeptical - prove it.
 
 ## Part 2 - HTTP
@@ -57,7 +60,8 @@ Test-NetConnection -ComputerName "192.168.202.XXX" -Port 80 -InformationLevel "D
 	2. NAT rule forwarding that **TCP range** → server
 	3. IIS → server → **FTP Firewall Support** → set the **data channel port range** and the **external IP** (router WAN)
 * Connect with FileZilla in Passive mode
-> [!warning] Both the FTP server config **and** the NAT rule must match, or FTP fails or works intermittently. See [[FTP#Ports and modes]]
+> [!WARNING]
+> Both the FTP server config **and** the NAT rule must match, or FTP fails or works intermittently. See [[FTP#Ports and modes]]
 
 ## Part 6 - Scanning (Linux)
 ```bash

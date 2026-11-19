@@ -1,0 +1,90 @@
+/* ============================================================
+   Course color coding for the NAIT ITSA notes vault
+   Each note has `cssclasses: [<course>]` in its frontmatter.
+   NETW1111 blue · SYSA1000 orange · SYSA1010 purple
+   SYSA1011 green · PMIT1027 red · Extra Information teal
+   ============================================================ */
+
+body {
+  --c-netw1111: #3b82f6;
+  --c-sysa1000: #f59e0b;
+  --c-sysa1010: #8b5cf6;
+  --c-sysa1011: #10b981;
+  --c-pmit1027: #ef4444;
+  --c-extra:    #14b8a6;
+}
+
+/* Pick the accent for each course's notes */
+.netw1111 { --course: var(--c-netw1111); }
+.sysa1000 { --course: var(--c-sysa1000); }
+.sysa1010 { --course: var(--c-sysa1010); }
+.sysa1011 { --course: var(--c-sysa1011); }
+.pmit1027 { --course: var(--c-pmit1027); }
+.extra    { --course: var(--c-extra); }
+
+/* ---------- Headings ---------- */
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra)
+  :is(h1, .inline-title, .HyperMD-header-1) {
+  color: var(--course);
+}
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra) h1,
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra) .inline-title {
+  border-bottom: 3px solid var(--course);
+  padding-bottom: 0.2em;
+}
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra)
+  :is(h2, .HyperMD-header-2) {
+  color: var(--course);
+  border-left: 4px solid var(--course);
+  padding-left: 0.5em;
+}
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra)
+  :is(h3, .HyperMD-header-3) {
+  color: color-mix(in srgb, var(--course) 70%, var(--text-normal));
+}
+
+/* ---------- Bold text gets a subtle tint ---------- */
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra)
+  :is(strong, .cm-strong) {
+  color: color-mix(in srgb, var(--course) 45%, var(--text-normal));
+}
+
+/* ---------- Tables ---------- */
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra) table th {
+  background-color: color-mix(in srgb, var(--course) 18%, transparent);
+  border-bottom: 2px solid var(--course);
+}
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra)
+  table tr:nth-child(even) td {
+  background-color: color-mix(in srgb, var(--course) 5%, transparent);
+}
+
+/* ---------- Inline code ---------- */
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra)
+  :is(:not(pre) > code, .cm-inline-code) {
+  color: var(--course);
+}
+
+/* ---------- Links ---------- */
+:is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra)
+  :is(.internal-link, .cm-hmd-internal-link) {
+  text-decoration-color: var(--course);
+}
+
+/* ---------- File explorer: color each course folder ---------- */
+.nav-folder-title[data-path^="NETW1111"]          { color: var(--c-netw1111); }
+.nav-folder-title[data-path^="SYSA1000"]          { color: var(--c-sysa1000); }
+.nav-folder-title[data-path^="SYSA1010"]          { color: var(--c-sysa1010); }
+.nav-folder-title[data-path^="SYSA1011"]          { color: var(--c-sysa1011); }
+.nav-folder-title[data-path^="PMIT1027"]          { color: var(--c-pmit1027); }
+.nav-folder-title[data-path^="Extra Information"] { color: var(--c-extra); }
+.nav-folder-title:is([data-path="NETW1111"], [data-path="SYSA1000"],
+  [data-path="SYSA1010"], [data-path="SYSA1011"], [data-path="PMIT1027"],
+  [data-path="Extra Information"]) { font-weight: 700; }
+
+/* ---------- Tag pills ---------- */
+a.tag[href="#NETW1111"], .cm-tag-NETW1111 { background-color: color-mix(in srgb, var(--c-netw1111) 25%, transparent); }
+a.tag[href="#SYSA1000"], .cm-tag-SYSA1000 { background-color: color-mix(in srgb, var(--c-sysa1000) 25%, transparent); }
+a.tag[href="#SYSA1010"], .cm-tag-SYSA1010 { background-color: color-mix(in srgb, var(--c-sysa1010) 25%, transparent); }
+a.tag[href="#SYSA1011"], .cm-tag-SYSA1011 { background-color: color-mix(in srgb, var(--c-sysa1011) 25%, transparent); }
+a.tag[href="#PMIT1027"], .cm-tag-PMIT1027 { background-color: color-mix(in srgb, var(--c-pmit1027) 25%, transparent); }

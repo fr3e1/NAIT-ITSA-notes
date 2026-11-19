@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 2 - Routing"
 lesson: "M2 Day 3 - Subnets 1"
@@ -32,7 +33,8 @@ Back to [[NETW1111]] · Prev: [[Network Diagrams]] · Next: [[Subnetting Conside
 * Mask `/25` = `255.255.255.128`
 * 7 host bits → 2^7 = 128 addresses, minus 2 = **126 usable**
 
-> [!tip] Reading a CIDR mask
+> [!TIP]
+> **Reading a CIDR mask**
 > Compare against the class default: class C expects /24, mask is /25 → 25 − 24 = **1 bit stolen** → 2^1 = 2 subnets
 
 ## Formulas
@@ -61,7 +63,8 @@ Back to [[NETW1111]] · Prev: [[Network Diagrams]] · Next: [[Subnetting Conside
 * 1 bit = 2 slices, 2 bits = 4 slices, 3 bits = 8 slices (/27)... always doubling - "there are no half-bits"
 * Eventually the slices are too small to feed anyone (/31 → no usable hosts)
 
-> [!warning] Plan for growth
+> [!WARNING]
+> **Plan for growth**
 > Too many small subnets means restructuring later when more devices arrive. Better to waste a few addresses than redo the network.
 
 ## Larger networks

@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 1 - Local Area Networks"
 lesson: "M1 Day 2 - OSI Model"
@@ -20,7 +21,8 @@ Back to [[NETW1111]] · Prev: [[Intro to Networking]] · Next: [[LANs and IP Add
 * Real Internet infrastructure was built independently of OSI, but OSI is still the best model to *understand* networking
 
 ## The seven layers
-> [!tip] Mnemonic (top → bottom)
+> [!TIP]
+> **Mnemonic (top → bottom)**
 > **A**ll **P**eople **S**eem **T**o **N**eed **D**ata **P**rocessing
 
 | # | Layer | Concerned with | Examples |
@@ -83,7 +85,8 @@ Back to [[NETW1111]] · Prev: [[Intro to Networking]] · Next: [[LANs and IP Add
 | LAN transmission | LAN transmission | Data Link | LAN transmission | LAN transmission |
 | Send signals | Receive signals | Physical | Send signals | Receive signals |
 
-> [!note] Keep in mind
+> [!NOTE]
+> **Keep in mind**
 > * **All** layers are used at any given time by every networked application
 > * But each layer doesn't need to understand the others - a browser calls the OS, the OS talks to the NIC
 > * This separation lets new tech be inserted into one layer without disturbing the others

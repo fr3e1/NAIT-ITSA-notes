@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 14
 type: assignment
@@ -8,7 +9,8 @@ tags: [PMIT1027, assignment, presentation]
 # Final Project Plan Presentation
 Back to [[PMIT1027]]
 
-> [!info] Overview (10%)
+> [!NOTE]
+> **Overview (10%)**
 > A light, fun **5-10 minute** team wrap-up of the [[Project Plan Report]] - every member speaks at least once - followed by Q&A.
 
 ## Required components

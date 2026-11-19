@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 3 - Windows OS Deployment"
 source: "SYSA1000 - Windows Deploy - Deployment at Scale.pptx"
@@ -49,4 +50,5 @@ C:\Windows\System32\Sysprep\sysprep.exe /generalize /oobe /shutdown
 | **OEM** | Comes with a new computer | That computer, for life |
 | **Volume** | An organization under an agreement | Managed centrally (KMS / MAK) |
 
-> [!note] The **edition installed** and the **licence that activates it** are separate things
+> [!NOTE]
+> The **edition installed** and the **licence that activates it** are separate things

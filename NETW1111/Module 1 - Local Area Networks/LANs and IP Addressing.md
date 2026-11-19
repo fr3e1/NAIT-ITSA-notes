@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 1 - Local Area Networks"
 lesson: "M1 Day 3 - IP Addressing"
@@ -87,7 +88,8 @@ Full:                       2001:0db8:0000:0000:0000:0000:1518:0001
 Drop leading 0s per hextet: 2001:db8:0:0:0:0:1518:1
 Longest run of 0s -> "::":  2001:db8::1518:1
 ```
-> [!warning] `::` can only be used **once** in an address
+> [!WARNING]
+> `::` can only be used **once** in an address
 
 ### Common IPv6 addresses
 | Address | Meaning |

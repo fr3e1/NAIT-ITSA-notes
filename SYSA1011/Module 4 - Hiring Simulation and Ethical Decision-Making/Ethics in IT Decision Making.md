@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 4 - Hiring Simulation and Ethical Decision-Making"
 source: "Ethics in IT Decision Making.pptx"

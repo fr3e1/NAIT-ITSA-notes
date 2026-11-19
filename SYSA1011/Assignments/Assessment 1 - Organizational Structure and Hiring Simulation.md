@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 4 - Hiring Simulation and Ethical Decision-Making"
 type: assignment
@@ -8,7 +9,8 @@ tags: [SYSA1011, assignment, org-structure, hiring, ai]
 # Assessment 1 - Organizational Structure and Hiring Simulation
 Back to [[SYSA1011]]
 
-> [!info] Overview (15%)
+> [!NOTE]
+> **Overview (15%)**
 > Design a **fictional organization** and its **IT department**, evaluate three candidates for an open IT role and recommend one, then use **AI** to generate an org structure and critique it.
 
 ## Part 1 - Organizational structure design

@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 1 - Local Area Networks"
 lesson: "M1 Day 5 - Transport Protocols"
@@ -29,7 +30,8 @@ Back to [[NETW1111]] · Prev: [[Ethernet, ARP and ICMP]] · Next: [[Routing]]
 * Handles **routing between networks**
 * **Connectionless** - no verification of a connection before sending (that's left to TCP/UDP)
 * IPv4 = 32-bit addresses, IPv6 = 128-bit
-> [!tip] IP is *how data gets to its destination*; TCP is *what makes sure it arrived intact and coherent*
+> [!TIP]
+> IP is *how data gets to its destination*; TCP is *what makes sure it arrived intact and coherent*
 
 ## TCP - Transmission Control Protocol
 * Reliable connection between two nodes - ensures they can exchange data **before** real data is sent

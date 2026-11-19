@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 4 - Windows OS Configuration"
 source: "SYSA1000 - Windows Config - Command Line, Firewall, and System Settings.pptx"

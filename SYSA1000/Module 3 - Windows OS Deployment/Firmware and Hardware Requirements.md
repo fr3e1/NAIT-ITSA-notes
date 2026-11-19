@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 3 - Windows OS Deployment"
 source: "SYSA1000 - Windows Deploy - Firmware and Hardware Requirements.pptx"
@@ -43,7 +44,8 @@ Confirm-SecureBootUEFI
 Get-Tpm
 ```
 
-> [!important] Firmware settings survive a reimage
+> [!IMPORTANT]
+> **Firmware settings survive a reimage**
 > Wiping replaces the **drive**; firmware lives on the **board**. A misconfigured firmware stays misconfigured through a full wipe - that's why **restoring defaults** is a real step.
 
 ## Watching it refuse

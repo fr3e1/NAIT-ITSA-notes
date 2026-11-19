@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 1 - Windows Server Deployment"
 source: "Lesson 02b - DHCP Server Role.pptx"
@@ -7,7 +8,8 @@ tags: [SYSA1010, windows-server, dhcp]
 # DHCP Server Role
 Back to [[SYSA1010]] · Prev: [[Windows Server Roles and Features]] · Next: [[DNS Server Role]]
 
-> [!tip] Protocol details (DORA, leases, troubleshooting) are in [[DHCP]] (NETW1111)
+> [!TIP]
+> Protocol details (DORA, leases, troubleshooting) are in [[DHCP]] (NETW1111)
 
 ## IP addresses
 * Unique identifier on a network - IPv4 (`192.168.204.10`) or IPv6 (`2001:db8:85a3::8a2e:370:7334`)

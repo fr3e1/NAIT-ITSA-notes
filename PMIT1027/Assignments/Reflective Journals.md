@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 type: assignment
 weight: "3 × 5%"
@@ -7,7 +8,8 @@ tags: [PMIT1027, assignment, reflection]
 # Reflective Journals
 Back to [[PMIT1027]]
 
-> [!info] Three individual reflective journal entries (5% each), due around weeks 4, 10-11 and 13.
+> [!NOTE]
+> Three individual reflective journal entries (5% each), due around weeks 4, 10-11 and 13.
 
 ## Journal 1 - team dynamics and getting started
 * What did you learn about effective teamwork?

@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 2 - Active Directory"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1010, assignment, active-directory, gpo, auditing]
 # Assignment 2 - Active Directory Configuration and Auditing
 Back to [[SYSA1010]]
 
-> [!info] Objective
+> [!NOTE]
+> **Objective**
 > Deploy a new **domain controller** (AD DS + DNS + DHCP) with **two Windows 11 clients**, a network share, and GPOs - applying **defense in depth** and **secure by design** - then audit account events.
 
 ## Infrastructure (all on **vmnet4** - host adapter + DHCP disabled)

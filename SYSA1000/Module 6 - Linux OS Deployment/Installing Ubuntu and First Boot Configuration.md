@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 6 - Linux OS Deployment"
 source: "SYSA1000 - Linux Deploy - Installing Ubuntu and First Boot Configuration.pptx"
@@ -51,7 +52,8 @@ apt list --installed
 sudo snap refresh          # "All snaps up to date"
 snap list
 ```
-> [!important] apt and snap don't see each other - "fully up to date" means **both**
+> [!IMPORTANT]
+> apt and snap don't see each other - "fully up to date" means **both**
 
 ## cat, grep and pipes
 ```bash

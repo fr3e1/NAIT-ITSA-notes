@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 11
 type: assignment
@@ -8,7 +9,8 @@ tags: [PMIT1027, assignment, ms-project, gantt, critical-path]
 # Project Schedule
 Back to [[PMIT1027]]
 
-> [!info] Overview (10%)
+> [!NOTE]
+> **Overview (10%)**
 > Turn the Excel WBS into a **Microsoft Project** Gantt schedule with durations, dependencies, resources and the **critical path**. **Must be `.mpp`** - other formats aren't accepted.
 
 ## Requirements

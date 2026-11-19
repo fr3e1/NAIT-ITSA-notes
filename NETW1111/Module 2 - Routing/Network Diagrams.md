@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 2 - Routing"
 lesson: "M2 Day 2 - Network Diagrams"

@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1011]
 course: SYSA1011
 module: "Module 10 - Career Strategy and Portfolio Development"
 source: "Career Strategy and Job Posting.pptx, Portfolio Workshop and Career Readiness Flex Day.pptx"
@@ -7,7 +8,8 @@ tags: [SYSA1011, career, job-posting, portfolio]
 # Career Strategy and Job Posting Analysis
 Back to [[SYSA1011]] · Prev: [[Workplace Respect and Professional Awareness]]
 
-> [!quote] Career strategy is **evidence-building**.
+> [!IMPORTANT]
+> Career strategy is **evidence-building**.
 
 ## Start with evidence, not guesses
 * Job postings, skills inventories, resume feedback, LinkedIn, labs/projects, portfolio artifacts, feedback

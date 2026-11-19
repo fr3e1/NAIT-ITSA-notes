@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 1 - Windows Server Deployment"
 source: "Lesson 03a - DNS Server Role.pptx"
@@ -7,7 +8,8 @@ tags: [SYSA1010, windows-server, dns]
 # DNS Server Role
 Back to [[SYSA1010]] · Prev: [[DHCP Server Role]] · Next: [[File Permissions and Network Shares]]
 
-> [!tip] Protocol details (record types, query types, client behaviour) are in [[DNS]] (NETW1111)
+> [!TIP]
+> Protocol details (record types, query types, client behaviour) are in [[DNS]] (NETW1111)
 
 ## Domain names
 * Human-readable address converted to an IP by a DNS server; owned by a person or organization

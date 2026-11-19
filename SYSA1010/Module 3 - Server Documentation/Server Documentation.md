@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 3 - Server Documentation"
 source: "Lesson 09a - Server Documentation.pptx"
@@ -63,7 +64,8 @@ Back to [[SYSA1010]] · Prev: [[Auditing Active Directory]]
 | Decentralized | Individual files/notes (avoid) |
 * **SOPs** (standard operating procedures) - step-by-step guides for common tasks
 
-> [!tip] Something is better than nothing
+> [!TIP]
+> **Something is better than nothing**
 > Start small and grow. **OneNote** is the recommended starting point - stored in Teams/SharePoint or anywhere central the team can reach.
 
 ## References

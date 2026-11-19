@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 5 - Windows OS Troubleshooting"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1000, assignment, troubleshooting, windows]
 # Assignment 5 - Windows OS Troubleshooting
 Back to [[SYSA1000]]
 
-> [!info] Objective
+> [!NOTE]
+> **Objective**
 > Work a help desk ticket for "Morgan", whose Windows 11 VM has several faults. Diagnose each with the structured method, fix it with **one change at a time**, and record the reasoning.
 
 ## Setup
@@ -70,7 +72,8 @@ Stop-Process -Id 1234
 Get-ChildItem C:\ -Recurse -Force -File -ErrorAction SilentlyContinue |
   Sort Length -Descending | Select -First 10 FullName, Length
 ```
-> [!tip] Disabling a task stops it starting again but doesn't stop the copy already running - and killing the process alone doesn't stop it coming back.
+> [!TIP]
+> Disabling a task stops it starting again but doesn't stop the copy already running - and killing the process alone doesn't stop it coming back.
 
 ### Part 5 - Profile: temporary profile after a name change
 * **Observe:** signing in shows *"We can't sign in to your account"* + empty desktop (temp profile). Application log: **User Profile Service event 1502/1511**
@@ -82,6 +85,7 @@ Get-ChildItem 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList' |
   Get-ItemProperty | Select PSChildName, ProfileImagePath
 ```
 
-> [!note] Restoring the snapshot to retry is fine - say so in the record.
+> [!NOTE]
+> Restoring the snapshot to retry is fine - say so in the record.
 
 Related: [[Services, Processes, and Resource Monitoring]], [[Troubleshooting Performance and Startup]], [[Network Addressing and Name Resolution]]

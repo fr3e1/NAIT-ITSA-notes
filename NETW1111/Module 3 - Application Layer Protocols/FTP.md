@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 3 - Application Layer Protocols"
 lesson: "M3 Day 4 - FTP Protocol"
@@ -19,7 +20,8 @@ Back to [[NETW1111]] · Prev: [[HTTP]] · Next: [[DNS]]
 * FTP lets you change options mid-session
 * FTP connection setup is slower
 
-> [!warning] Not the same as FTP
+> [!WARNING]
+> **Not the same as FTP**
 > * **SFTP** - part of **SSH**, port **22**, encrypted, firewall friendly, popular on Linux (see [[SSH]])
 > * **TFTP** - **UDP**, unauthenticated; used for network boot images and switch/router OS upgrades on a LAN
 

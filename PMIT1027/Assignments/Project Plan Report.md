@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 15
 type: assignment
@@ -8,7 +9,8 @@ tags: [PMIT1027, assignment, project-plan]
 # Project Plan Report
 Back to [[PMIT1027]]
 
-> [!info] Overview (20%)
+> [!NOTE]
+> **Overview (20%)**
 > Integrate every planning document into one professional report (**~6-10 pages**, excluding appendices). Earlier work must be **reviewed and refined**, not just pasted in. AI may support research/ideas, but writing must be the group's own.
 
 ## Sections

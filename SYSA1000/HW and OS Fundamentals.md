@@ -1,3 +1,6 @@
+---
+cssclasses: [sysa1000]
+---
 # Firmware - The software before the operating system
 * Firmware is software stored on the hardware itself
 * it runs before any operating system exists on the machine

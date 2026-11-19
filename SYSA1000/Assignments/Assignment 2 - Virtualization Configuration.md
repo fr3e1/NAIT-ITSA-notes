@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 2 - Virtualization"
 type: assignment
@@ -7,7 +8,8 @@ tags: [SYSA1000, assignment, virtualization, vmware, snapshots]
 # Assignment 2 - Virtualization Configuration
 Back to [[SYSA1000]]
 
-> [!info] Objective
+> [!NOTE]
+> **Objective**
 > Import a supplied VM, change its resources and record the difference, use snapshots and clones, and test the three network modes.
 
 ## Part 1 - Import and size

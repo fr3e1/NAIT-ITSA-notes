@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 2 - Virtualization"
 source: "SYSA1000 - Virtualization - Virtualization Concepts and Resource Allocation.pptx"
@@ -21,7 +22,8 @@ Back to [[SYSA1000]] · Prev: [[Virtual Hardware and Resource Monitoring]] · Ne
 | `.vmsd` / `.vmsn` | Snapshot metadata / state |
 | `.log` | VM logs |
 
-> [!tip] Copy the folder and you've copied the machine
+> [!TIP]
+> Copy the folder and you've copied the machine
 
 ## The three things you allocate
 ### Processors

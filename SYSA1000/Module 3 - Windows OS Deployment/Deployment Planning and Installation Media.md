@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 3 - Windows OS Deployment"
 source: "SYSA1000 - Windows Deploy - Deployment Planning and Installation Media.pptx"

@@ -1,3 +1,6 @@
+---
+cssclasses: [netw1111]
+---
 ## The Seven OSI Layers
 Is a general model that people use to struture their networks. This model however, while it's not being directly adapted or replace the precaursor, TCP/IP, is later incorperated into TCP/IP due to people wanting to stick to the already existing and working system. So rather than switching to a new system entirely, the system's structure is being used to construct future TCP/IP networks.
 

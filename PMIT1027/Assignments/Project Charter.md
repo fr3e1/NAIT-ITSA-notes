@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 6
 type: assignment
@@ -8,7 +9,8 @@ tags: [PMIT1027, assignment, project-charter]
 # Project Charter
 Back to [[PMIT1027]]
 
-> [!info] Overview (10%)
+> [!NOTE]
+> **Overview (10%)**
 > Team charter for the semester project using the **PMIT1027 Project Charter Template** (team name, project title, date, instructor + table of contents).
 
 ## Template sections

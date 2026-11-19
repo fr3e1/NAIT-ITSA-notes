@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 3 - Application Layer Protocols"
 lesson: "M3 Day 6 - DHCP"

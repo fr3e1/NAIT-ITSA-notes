@@ -1,4 +1,5 @@
 ---
+cssclasses: [pmit1027]
 course: PMIT1027
 week: 8
 type: assignment
@@ -8,7 +9,8 @@ tags: [PMIT1027, assignment, wbs, excel]
 # Work Breakdown Structure Assessment
 Back to [[PMIT1027]]
 
-> [!info] Overview (10%)
+> [!NOTE]
+> **Overview (10%)**
 > Break the project into manageable components with a WBS built in **Microsoft Excel** (not MS Project). Focus on **scope and task organization**, not scheduling.
 
 ## Requirements

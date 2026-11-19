@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1000]
 course: SYSA1000
 module: "Module 1 - Hardware and OS Fundamentals"
 source: "SYSA1000 - HW and OS Fundamentals - Course Introduction.pptx"

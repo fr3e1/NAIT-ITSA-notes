@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 1 - Local Area Networks"
 lesson: "M1 Day 1 - Intro to Networking"
@@ -80,7 +81,8 @@ Back to [[NETW1111]]
 * Sometimes the "problem" is the intended design (e.g. a firewall deliberately blocks the service, or the user is violating corporate policy)
 * Knowing the source of a problem tells you what you can fix and what needs to be routed "higher"
 
-> [!tip] Course goal
+> [!TIP]
+> **Course goal**
 > Separate problems into **hardware vs software**, **client vs server**, **network vs node**, and **user vs system** (PEBKAC: Problem Exists Between Keyboard And Chair). It's a binary process of ruling out and narrowing down causes.
 
 ## Links

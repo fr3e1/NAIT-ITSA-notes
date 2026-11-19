@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 2 - Active Directory"
 source: "Lesson 06a - User Management.pptx"
@@ -43,7 +44,8 @@ Set-ADAccountPassword jlee -Reset
 | **Global** | **Local domain only** | Any domain in the forest |
 | **Universal** | Any domain in the forest | Anywhere in the forest + across trusts |
 
-> [!tip] Classic pattern: **AGDLP** - **A**ccounts → **G**lobal groups → **D**omain **L**ocal groups → **P**ermissions
+> [!TIP]
+> Classic pattern: **AGDLP** - **A**ccounts → **G**lobal groups → **D**omain **L**ocal groups → **P**ermissions
 
 * Everyone is in **Domain Users**; admin rights come from built-in groups (Domain Admins, Enterprise Admins...)
 

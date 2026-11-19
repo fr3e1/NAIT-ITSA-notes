@@ -1,4 +1,5 @@
 ---
+cssclasses: [sysa1010]
 course: SYSA1010
 module: "Module 1 - Windows Server Deployment"
 source: "Lesson 04a - File Permissions and Network Shares.pptx"
@@ -57,7 +58,8 @@ Grant-SmbShareAccess -Name "Data" -AccountName "Students" -AccessRight Read -For
 | Change | Deny Read | **Denied** |
 | Deny Full | Read | **Denied** |
 
-> [!tip] Common practice: share = *Everyone/Authenticated Users: Full* (or Change) and control access with NTFS only.
+> [!TIP]
+> Common practice: share = *Everyone/Authenticated Users: Full* (or Change) and control access with NTFS only.
 
 Related: [[User Accounts, Profiles, and Permissions]] (SYSA1000), [[SMB]] (NETW1111)
 * Exercise: *04a Create Network Share*

@@ -1,4 +1,5 @@
 ---
+cssclasses: [netw1111]
 course: NETW1111
 module: "Module 2 - Routing"
 lesson: "M2 Day 4 - Subnets 2"
@@ -45,7 +46,7 @@ Change **only** the router to `/25` → splits into `.0/25` (bcast .127) and `.1
 * Client2 → router: Client2 thinks the router is local and sends to it...
 * ...but the router sees Client2 (.199) as **another network** → replies go to *its* DG → **replies fail**
 
-> [!note]
+> [!NOTE]
 > Because everything is on the same switch/VLAN, the problem is purely **logical addressing**. With separate switches/VLANs, Client2 couldn't reach the router at all - which is one reason VLANs exist, though they add confusion when troubleshooting.
 
 **Fix** - router gets an address in each subnet, clients' masks match their DG:
@@ -77,7 +78,8 @@ Client2:  172.16.64.255/18 (DG 172.16.65.1)
 * **Client1** `63.255` = `(00)111111 11111111` → all host bits 1 → **broadcast address** ❌ - not usable
 * **Client2** `64.255` = `(01)000000 11111111` → host bits not all 1s/0s → ✅ valid
 
-> [!tip] Takeaway
+> [!TIP]
+> **Takeaway**
 > A `.255` or `.0` octet doesn't automatically mean broadcast/network address - check the bits. But humans make mistakes, so avoid 0 and 255 in node addresses anyway.
 
 ## Summary - aim for
