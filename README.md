@@ -50,7 +50,7 @@ Callouts are written as GitHub alerts, so they're colored both here and in Obsid
 > [!CAUTION]
 > **Red - Danger.** Things that can lose data or lock you out.
 
-In Obsidian, each course also has its own accent color (headings, tables, bold text, inline code and the file explorer) via the `course-colors` CSS snippet in `.obsidian/snippets/`. It's enabled by default; toggle it in **Settings → Appearance → CSS snippets**.
+In Obsidian, each course also has its own [Catppuccin](https://catppuccin.com/palette/) accent color (Mocha in dark mode, Latte in light mode) for headings, tables, bold text, inline code the file explorer and the graph view, set by the `course-colors` CSS snippet in `.obsidian/snippets/`. It's enabled by default; toggle it in **Settings → Appearance → CSS snippets**.
 
 ## Screenshots
 

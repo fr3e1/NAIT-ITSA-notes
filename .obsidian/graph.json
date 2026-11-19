@@ -11,42 +11,42 @@
       "query": "path:NETW1111",
       "color": {
         "a": 1,
-        "rgb": 3900150
+        "rgb": 9024762
       }
     },
     {
       "query": "path:SYSA1000",
       "color": {
         "a": 1,
-        "rgb": 16096779
+        "rgb": 16429959
       }
     },
     {
       "query": "path:SYSA1010",
       "color": {
         "a": 1,
-        "rgb": 9133302
+        "rgb": 13346551
       }
     },
     {
       "query": "path:SYSA1011",
       "color": {
         "a": 1,
-        "rgb": 1096065
+        "rgb": 10937249
       }
     },
     {
       "query": "path:PMIT1027",
       "color": {
         "a": 1,
-        "rgb": 15680580
+        "rgb": 15961000
       }
     },
     {
       "query": "path:\"Extra Information\"",
       "color": {
         "a": 1,
-        "rgb": 1357990
+        "rgb": 9757397
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2862857538514674,
+  "scale": 0.42942863077720106,
   "close": true
 }

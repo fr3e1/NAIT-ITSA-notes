@@ -1,17 +1,27 @@
 /* ============================================================
    Course color coding for the NAIT ITSA notes vault
    Each note has `cssclasses: [<course>]` in its frontmatter.
-   NETW1111 blue · SYSA1000 orange · SYSA1010 purple
+   NETW1111 blue · SYSA1000 peach · SYSA1010 mauve
    SYSA1011 green · PMIT1027 red · Extra Information teal
    ============================================================ */
 
-body {
-  --c-netw1111: #3b82f6;
-  --c-sysa1000: #f59e0b;
-  --c-sysa1010: #8b5cf6;
-  --c-sysa1011: #10b981;
-  --c-pmit1027: #ef4444;
-  --c-extra:    #14b8a6;
+/* Catppuccin palette - https://catppuccin.com/palette/
+   Mocha accents in dark mode, Latte accents in light mode */
+.theme-dark {
+  --c-netw1111: #89b4fa; /* blue  */
+  --c-sysa1000: #fab387; /* peach */
+  --c-sysa1010: #cba6f7; /* mauve */
+  --c-sysa1011: #a6e3a1; /* green */
+  --c-pmit1027: #f38ba8; /* red   */
+  --c-extra:    #94e2d5; /* teal  */
+}
+.theme-light {
+  --c-netw1111: #1e66f5;
+  --c-sysa1000: #fe640b;
+  --c-sysa1010: #8839ef;
+  --c-sysa1011: #40a02b;
+  --c-pmit1027: #d20f39;
+  --c-extra:    #179299;
 }
 
 /* Pick the accent for each course's notes */
@@ -21,6 +31,21 @@ body {
 .sysa1011 { --course: var(--c-sysa1011); }
 .pmit1027 { --course: var(--c-pmit1027); }
 .extra    { --course: var(--c-extra); }
+
+/* ---------- Callouts in Catppuccin colors ---------- */
+.theme-dark .callout[data-callout="note" i], .theme-dark .callout[data-callout="info" i] { --callout-color: #89b4fa; }
+.theme-dark .callout[data-callout="tip" i], .theme-dark .callout[data-callout="example" i] { --callout-color: #a6e3a1; }
+.theme-dark .callout[data-callout="important" i], .theme-dark .callout[data-callout="quote" i] { --callout-color: #cba6f7; }
+.theme-dark .callout[data-callout="warning" i] { --callout-color: #f9e2af; }
+.theme-dark .callout[data-callout="caution" i], .theme-dark .callout[data-callout="danger" i] { --callout-color: #f38ba8; }
+.theme-light .callout[data-callout="note" i], .theme-light .callout[data-callout="info" i] { --callout-color: #1e66f5; }
+.theme-light .callout[data-callout="tip" i], .theme-light .callout[data-callout="example" i] { --callout-color: #40a02b; }
+.theme-light .callout[data-callout="important" i], .theme-light .callout[data-callout="quote" i] { --callout-color: #8839ef; }
+.theme-light .callout[data-callout="warning" i] { --callout-color: #df8e1d; }
+.theme-light .callout[data-callout="caution" i], .theme-light .callout[data-callout="danger" i] { --callout-color: #d20f39; }
+
+/* Hide the cssclasses property - it only drives these colors */
+.metadata-property[data-property-key="cssclasses"] { display: none; }
 
 /* ---------- Headings ---------- */
 :is(.netw1111, .sysa1000, .sysa1010, .sysa1011, .pmit1027, .extra)
